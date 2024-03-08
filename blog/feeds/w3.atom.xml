@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-03-01T08:25:52+08:00</updated><entry><title>W2</title><link href="./2.html" rel="alternate"></link><published>2024-03-01T01:20:00+08:00</published><updated>2024-03-01T08:25:52+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-01:./2.html</id><summary type="html">&lt;p&gt;2024/03/01 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024/03/01 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-03-08T07:36:11+08:00</updated><entry><title>W3</title><link href="./3.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-03-08T07:36:11+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./3.html</id><summary type="html">&lt;p&gt;2024/03/08 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024/03/08 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統41123137&lt;/h1&gt;
-&lt;h1&gt;第二周進度&lt;/h1&gt;
-&lt;p&gt;1.利用github classroom進行分組倉儲✓&lt;/p&gt;
-&lt;p&gt;2.組別為第三組&amp;gt;&amp;gt;&lt;a href="https://github.com/mdecd2024/2a-midag3"&gt;第三組倉儲連結點我&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;第三周進度&lt;/h1&gt;
+&lt;p&gt;1.每組組員個人倉儲加入分組小組的倉儲變成子模組✓
+小組倉儲連結點我&amp;gt;&amp;gt;&amp;gt;&lt;a href="https://github.com/mdecd2024/2a-midag3"&gt;第三組&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/p&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
@@ -267,4 +267,4 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
