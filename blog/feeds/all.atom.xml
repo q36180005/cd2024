@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-03T06:31:32+08:00</updated><entry><title>W10</title><link href="./10.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:18:51+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./10.html</id><summary type="html">&lt;p&gt;2024/04/26 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-03T07:03:04+08:00</updated><entry><title>W10</title><link href="./10.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:36:23+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./10.html</id><summary type="html">&lt;p&gt;2024/04/26 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/04/26 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
@@ -268,17 +268,20 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W11</title><link href="./11.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:31:32+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./11.html</id><summary type="html">&lt;p&gt;2024/05/03 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W11</title><link href="./11.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T07:03:04+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./11.html</id><summary type="html">&lt;p&gt;2024/05/03 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/05/03 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統41123137&lt;/h1&gt;
 &lt;h1&gt;第十一周進度&lt;/h1&gt;
 &lt;p&gt;1.利用 NX 1872 畫出鋼球平衡台所需的零組件
-先用Solidwork繪出零件,再轉入NX,以下是零件3繪圖過程[點我進入]
-[點我進入]:&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vXR0OEnA6AI?si=VISrFCHixkBH5HCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;零件4繪圖過程[點擊進入]
-[點擊進入]:&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5anto_dt76Q?si=cWBNEnMXBW9WpzLF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+先用Solidwork繪出零件,再轉入NX,以下是零件3繪圖過程&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vXR0OEnA6AI?si=VISrFCHixkBH5HCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;零件4繪圖過程
+:&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5anto_dt76Q?si=cWBNEnMXBW9WpzLF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;2.41123137心得: 
+  自第1週到第11週,個人與分組倉儲的建立及維護操作、翻譯Odoo軟體在產品生命週期管理、製造執行系統及其整合上的功能分析、將老師的教學影片進行字幕上傳、逐字稿以及大綱內容,分組影片報告,將每個組員各一分鐘的影片報告放到各分組網誌,說明已經完成的個人與團隊分配任務製作結果到實習任務鋼球平衡台零組件繪圖等等,課程目的是讓學員了解如何利用replit、codespace、github、CoppeliaSim等套件或網站來實習協同產品設計&lt;/p&gt;
 &lt;p&gt;^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/p&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
@@ -539,7 +542,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./3.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:13:41+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./3.html</id><summary type="html">&lt;p&gt;2024/03/08 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./3.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:53:00+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./3.html</id><summary type="html">&lt;p&gt;2024/03/08 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/08 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
@@ -807,7 +810,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W4</title><link href="./4.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:13:48+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./4.html</id><summary type="html">&lt;p&gt;2024/03/15 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W4</title><link href="./4.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:52:44+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./4.html</id><summary type="html">&lt;p&gt;2024/03/15 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/15 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
@@ -1077,7 +1080,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./5.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:13:52+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./5.html</id><summary type="html">&lt;p&gt;2024/03/22 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./5.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:52:43+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./5.html</id><summary type="html">&lt;p&gt;2024/03/22 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/22 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
@@ -1352,7 +1355,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W6</title><link href="./6.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:13:58+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./6.html</id><summary type="html">&lt;p&gt;2024/03/29 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W6</title><link href="./6.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:52:38+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./6.html</id><summary type="html">&lt;p&gt;2024/03/29 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/29 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
@@ -1620,7 +1623,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W7</title><link href="./7.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:14:01+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./7.html</id><summary type="html">&lt;p&gt;2024/04/05 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W7</title><link href="./7.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:52:40+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./7.html</id><summary type="html">&lt;p&gt;2024/04/05 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/04/05 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
@@ -1887,7 +1890,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w7"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W8</title><link href="./8.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:14:04+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./8.html</id><summary type="html">&lt;p&gt;2024/04/12 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w7"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W8</title><link href="./8.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:53:27+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./8.html</id><summary type="html">&lt;p&gt;2024/04/12 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/04/12 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
@@ -2154,7 +2157,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W9</title><link href="./9.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:14:07+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./9.html</id><summary type="html">&lt;p&gt;2024/04/19 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W9</title><link href="./9.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:53:42+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./9.html</id><summary type="html">&lt;p&gt;2024/04/19 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/04/19 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
@@ -2421,7 +2424,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W2</title><link href="./2.html" rel="alternate"></link><published>2024-03-01T01:20:00+08:00</published><updated>2024-05-03T06:13:34+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-01:./2.html</id><summary type="html">&lt;p&gt;2024/03/01 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W2</title><link href="./2.html" rel="alternate"></link><published>2024-03-01T01:20:00+08:00</published><updated>2024-05-03T06:53:00+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-01:./2.html</id><summary type="html">&lt;p&gt;2024/03/01 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/01 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
@@ -2953,7 +2956,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W1</title><link href="./1.html" rel="alternate"></link><published>2024-02-23T01:20:00+08:00</published><updated>2024-05-03T06:13:26+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-02-23:./1.html</id><summary type="html">&lt;p&gt;2024/02/23 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W1</title><link href="./1.html" rel="alternate"></link><published>2024-02-23T01:20:00+08:00</published><updated>2024-05-03T06:50:26+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-02-23:./1.html</id><summary type="html">&lt;p&gt;2024/02/23 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/02/23 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
