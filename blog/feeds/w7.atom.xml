@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w7</title><link href="./" rel="alternate"></link><link href="./feeds/w7.atom.xml" rel="self"></link><id>./</id><updated>2024-04-19T06:07:31+08:00</updated><entry><title>W7</title><link href="./7.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-04-19T06:07:31+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-08:./7.html</id><summary type="html">&lt;p&gt;2024/04/05 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w7</title><link href="./" rel="alternate"></link><link href="./feeds/w7.atom.xml" rel="self"></link><id>./</id><updated>2024-05-03T06:14:01+08:00</updated><entry><title>W7</title><link href="./7.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-03T06:14:01+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./7.html</id><summary type="html">&lt;p&gt;2024/04/05 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/04/05 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統41123137&lt;/h1&gt;
 &lt;h1&gt;第七周進度&lt;/h1&gt;
-&lt;p&gt;1.這周放假,清明節快樂,準備期中考,讚👍&lt;/p&gt;
+&lt;p&gt;1.各個小組用可攜式Sourtree套件,了解個人與小組倉儲的各種改版或解決衝突議題&lt;/p&gt;
 &lt;p&gt;^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/p&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
