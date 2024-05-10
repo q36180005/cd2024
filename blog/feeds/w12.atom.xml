@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w8</title><link href="./" rel="alternate"></link><link href="./feeds/w8.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T09:04:18+08:00</updated><entry><title>W8</title><link href="./W8-41123137.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-10T09:04:18+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./W8-41123137.html</id><summary type="html">&lt;p&gt;2024/04/12 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024/04/12 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - w12</title><link href="./" rel="alternate"></link><link href="./feeds/w12.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T09:06:05+08:00</updated><entry><title>W12</title><link href="./W12-41123137.html" rel="alternate"></link><published>2024-03-08T01:20:00+08:00</published><updated>2024-05-10T09:06:05+08:00</updated><author><name>Peggy</name></author><id>tag:None,2024-03-08:./W12-41123137.html</id><summary type="html">&lt;p&gt;2024/05/10 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024/05/10 Spring 網際內容管理與協同產品設計實習課程&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;
 
 
 &lt;h1&gt;內容管理系統41123137&lt;/h1&gt;
-&lt;h1&gt;第八周進度&lt;/h1&gt;
-&lt;p&gt;1.分組影片報告,將每個組員各一分鐘的影片報告放到各分組網誌,說明已經完成的個人與團隊分配任務製作結果&lt;/p&gt;
+&lt;h1&gt;第十二周進度&lt;/h1&gt;
+&lt;p&gt;1.將鋼球平衡台繪製零件NXopen Python程式上傳&lt;/p&gt;
+&lt;p&gt;2.把分組倉儲設為評分網站子模組&lt;/p&gt;
 &lt;p&gt;^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&lt;/p&gt;
 &lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
 &lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
@@ -266,4 +267,4 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;div id="brython_div2"&gt;&lt;/div&gt;
 &lt;!-- editor2 結束 --&gt;
 &lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
+&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w12"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
